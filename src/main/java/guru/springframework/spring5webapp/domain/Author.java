@@ -3,6 +3,9 @@ package guru.springframework.spring5webapp.domain;
 import javax.persistence.*;
 import java.util.Set;
 
+/**
+ * Created by gd on 6/1/2023
+ */
 @Entity
 public class Author {
     @Id
